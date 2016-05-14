@@ -4,7 +4,7 @@ __author__ = 'pengshp'
 
 import RPi.GPIO as GPIO
 import time
-
+#¿¿¿
 # BOARD±àºÅ·½Ê½£¬»ùÓÚ²å×ùÒý½Å±àºÅ
 GPIO.setmode(GPIO.BOARD)
 mode = GPIO.getmode()
